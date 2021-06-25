@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @taetaehoho
-- 👀 I’m interested in one day being able to build toys. 
 - 🌱 I’m currently learning Webdev and following the OSSU curriculum. 
 - 💞️ I’m looking to collaborate on small projects just for fun! 
 
