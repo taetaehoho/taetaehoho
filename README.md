@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @taetaehoho
-- 🌱 I’m currently learning Webdev and following the OSSU curriculum. 
-- 💞️ I’m looking to collaborate on small projects just for fun! 
+- 🌱 I just started learing CS. 
 
 Documenting my progress working through OSSU (started 5/20/2021) 
 
